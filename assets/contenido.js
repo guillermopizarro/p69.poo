@@ -2,7 +2,7 @@
 // null significa «Por publicar». Sustitúyelo por una ruta o URL real.
 // Rutas locales relativas a index.html, por ejemplo: recursos/diapositivas/unidad-01.pdf
 window.MATERIA = {
-  docente: 'Ing. Guillermo Pizarro Vásquez',
+  docente: 'Guillermo Pizarro',
   repositorio: 'https://github.com/guillermopizarro/p69.poo',
   documentos: [
     { titulo: 'Planificación de la asignatura', url: null },
