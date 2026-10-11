@@ -1,0 +1,1 @@
+Coloca aquí tu planificación y tu sílabo (PDF). Después edita sus enlaces en assets/contenido.js.
